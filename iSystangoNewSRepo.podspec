@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'iSystangoNewSRepo/Classes/**/*'
-  
+  s.frameworks = 'UIKit'
   # s.resource_bundles = {
   #   'iSystangoNewSRepo' => ['iSystangoNewSRepo/Assets/*.png']
   # }
