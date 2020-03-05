@@ -1,0 +1,16 @@
+PODS:
+  - iSystangoNewSRepo (0.1.0)
+
+DEPENDENCIES:
+  - iSystangoNewSRepo (from `../`)
+
+EXTERNAL SOURCES:
+  iSystangoNewSRepo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iSystangoNewSRepo: eb8af4b772d0b43fe49dc49d6f89665b3680a48f
+
+PODFILE CHECKSUM: f09841f552666f3ca70185641788f4495bdaf069
+
+COCOAPODS: 1.9.0

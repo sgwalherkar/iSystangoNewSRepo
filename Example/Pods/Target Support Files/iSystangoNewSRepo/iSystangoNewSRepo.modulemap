@@ -1,0 +1,6 @@
+framework module iSystangoNewSRepo {
+  umbrella header "iSystangoNewSRepo-umbrella.h"
+
+  export *
+  module * { export * }
+}
