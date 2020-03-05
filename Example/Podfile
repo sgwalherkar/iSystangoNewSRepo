@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iSystangoNewSRepo_Example' do
+  pod 'iSystangoNewSRepo', :path => '../'
+
+  target 'iSystangoNewSRepo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
